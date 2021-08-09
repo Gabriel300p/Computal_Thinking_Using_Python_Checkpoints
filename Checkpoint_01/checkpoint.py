@@ -25,3 +25,4 @@ print("{:.2f}% da atividade YOGA" .format(porcentagem_yoga))
 print("{:.2f}% da atividade NATAÇÃO" .format(porcentagem_natacao))
 print("{:.2f}% da atividade HIDROGINÁSTICA" .format(porcentagem_hidroginastica))
 print("{:.2f}% da atividade GINÁSTICA ARTÍSTICA" .format(porcentagem_ginastica))
+

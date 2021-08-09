@@ -14,9 +14,7 @@ while valor_nota <= 0:
 
 visita = input("O cliente já visitou o restaurante? Responda S para sim e N para não (S/N) ")
 
-visita_maiusc = visita.upper()
-
-while visita_maiusc != "S" and visita != "N":
+while visita != "S" and visita != "N":
     print("\nInformação Invalida, digite novamente: ")
     visita = input("O cliente já visitou o restaurante? Responda S para sim e N para não (S/N) ")
 
